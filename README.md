@@ -15,3 +15,4 @@ Tujuan utama pengembangan HTML5 adalah untuk memperbaiki teknologi HTML agar men
 
 ## Source
 https://id.wikipedia.org/wiki/HTML5
+https://www.malasngoding.com/category/html-dasar/
